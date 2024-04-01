@@ -2,7 +2,7 @@ header{
     background-color:rgb(238, 255, 0);
     text-align: center;
     padding: 15px;
-    border-radius: 15px;
+    border-radius: 25px;
 }
 
 body{
@@ -15,4 +15,12 @@ body{
 
 footer{
     text-align: center;
+}
+
+.imagem{
+    text-align: center
+}
+
+.botao{
+    border-radius: 15px
 }
